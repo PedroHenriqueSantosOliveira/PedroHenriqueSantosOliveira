@@ -8,12 +8,12 @@ Olá, eu sou [Pedro Henrique Santos Oliveira] Idade:15 👋
     [ ] Construir projetos práticos conectando Front-end (HTML/CSS) com Back-end (Python/Banco de Dados).
     [ ] Aprofundar conhecimentos em integrações e conceitos de Internet das Coisas (IoT).
     [ ] Desenvolver meu primeiro sistema web completo e responsivo.
-
+    
 🛠️ Tecnologias e Ferramentas
   Aqui estão as tecnologias com as quais tenho trabalhado e estudado continuamente:
 Linguagens e Web
 Banco de Dados, Controle de Versão e Outros
-  
+
   🚀 Projetos em Destaque (SENAI/CEJO)
 Aqui você encontrará alguns dos projetos que desenvolvi durante minhas aulas e laboratórios. Eles estão em constante evolução!
 
