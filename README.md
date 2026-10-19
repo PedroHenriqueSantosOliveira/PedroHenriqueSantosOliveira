@@ -42,11 +42,10 @@ Sou um entusiasta da tecnologia e estudante do Curso Técnico em Desenvolvimento
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueSantosOliveira&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueSantosOliveira&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PedroHenriqueSantosOliveira&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PedroHenriqueSantosOliveira&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" />
 </p>
-
 ---
 
 ## 📫 Como me encontrar
